@@ -1,5 +1,5 @@
 {
-  "name": "cs-node-sdk",
+  "name": "aliyun-cs-node-sdk",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Suyi(Thonatos)",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thonatos/cs-node-sdk.git"
+    "url": "git+https://github.com/thonatos/aliyun-cs-node-sdk.git"
   },
   "keywords": [
     "CS",
@@ -37,7 +37,7 @@
     "Alicloud"
   ],
   "bugs": {
-    "url": "https://github.com/thonatos/cs-node-sdk/issues"
+    "url": "https://github.com/thonatos/aliyun-cs-node-sdk/issues"
   },
-  "homepage": "https://github.com/thonatos/cs-node-sdk#readme"
+  "homepage": "https://github.com/thonatos/aliyun-cs-node-sdk#readme"
 }

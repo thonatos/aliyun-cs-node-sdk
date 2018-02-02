@@ -8,11 +8,11 @@
     "test": "test"
   },
   "scripts": {
-    "format": "prettier --single-quote --trailing-comma es5 --write '{lib,test}/**/*.{js,json}'",
+    "debug": "DEBUG=cs:client node test/client.js",    
     "test": "mocha",
     "lint": "eslint .",
     "coveralls": "nyc npm test && nyc report --reporter=text-lcov | coveralls",
-    "run-test": "DEBUG=cs:client node test/client.js"
+    "format": "prettier --single-quote --trailing-comma es5 --write '{lib,test}/**/*.{js,json}'"
   },
   "dependencies": {
     "debug": "^3.1.0",

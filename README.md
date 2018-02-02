@@ -1,6 +1,8 @@
 # cs-nodejs-sdk
 
 [![NPM version][npm-image]][npm-url]
+
+[npm-image]: https://img.shields.io/npm/v/cs-node-sdk.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/cs-node-sdk
 
 Documents: https://help.aliyun.com/document_detail/26043.html?spm=a2c4g.11186623.6.940.p7WsUj

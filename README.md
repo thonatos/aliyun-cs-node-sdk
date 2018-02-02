@@ -11,11 +11,9 @@
 [cov-image]: https://coveralls.io/repos/thonatos/aliyun-cs-node-sdk/badge.svg?branch=master&service=github
 [cov-url]: https://coveralls.io/github/thonatos/aliyun-cs-node-sdk?branch=master
 
-Documents: https://help.aliyun.com/document_detail/26043.html?spm=a2c4g.11186623.6.940.p7WsUj
-
 ## API Spec
 
-See: https://help.aliyun.com/document_detail/27475.html
+See: https://help.aliyun.com/document_detail/26043.html
 
 ## Test
 
